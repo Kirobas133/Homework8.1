@@ -409,7 +409,5 @@ x64/
 
 /CMakeCache.txt
 
-*.vcxproj
+
 *.cmake
-*.filters
-*.user
